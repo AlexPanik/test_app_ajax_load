@@ -1,0 +1,16 @@
+.sort_field{
+	cursor:pointer;
+}
+
+.act{
+	font-weight:bold;
+	color:red;
+}
+
+.page_load{
+	cursor:pointer;
+}
+
+body{
+	padding:30px;
+}
